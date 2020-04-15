@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf811386-c748-4ea4-ae94-f60da6d1cd6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\InsttallSoftware\develop\MavenRepetory" />
+        <option name="mavenHome" value="D:/InsttallSoftware/work/Xing/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\InsttallSoftware\work\Xing\apache-maven-3.6.0\conf\settings-aliyun.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsNCzuZ3GH80E8FUPMeiTcBHzR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../12306" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="debugger.dataViews" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jstar.xt.lock.redisson" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestArray">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jstar.xt.xtparent.test.Demo" />
+      <module name="xt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jstar.xt.xtparent.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jstar.xt.lock.jdk.array.TestArray" />
+      <module name="xt-distri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jstar.xt.lock.jdk.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedisson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jstar.xt.lock.redisson.TestRedisson" />
+      <module name="xt-distri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jstar.xt.lock.redisson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedissonCp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jstar.xt.lock.redisson.TestRedissonCp" />
+      <module name="xt-distri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jstar.xt.lock.redisson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XtParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jstar.xt.xtparent.XtParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestArray" />
+        <item itemvalue="Application.TestRedisson" />
+        <item itemvalue="Application.TestRedissonCp" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf811386-c748-4ea4-ae94-f60da6d1cd6d" name="Default Changelist" comment="" />
+      <created>1585623717879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585623717879</updated>
+      <workItem from="1585623723921" duration="1397000" />
+      <workItem from="1586584571986" duration="1983000" />
+      <workItem from="1586611319548" duration="6391000" />
+      <workItem from="1586676748475" duration="3157000" />
+      <workItem from="1586735834293" duration="478000" />
+      <workItem from="1586737933198" duration="1394000" />
+      <workItem from="1586820135716" duration="11315000" />
+      <workItem from="1586917105554" duration="38000" />
+      <workItem from="1586919008521" duration="754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="90" key="#Project_Structure" timestamp="1586611682501">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="90" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1586611682501" />
+    <state x="937" y="135" key="#xdebugger.evaluate" timestamp="1586836642476">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="937" y="135" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1586836642476" />
+    <state width="457" height="466" key="DebuggerActiveHint" timestamp="1586831883659">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="457" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1586831883659" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1586919556767">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586919556767" />
+    <state width="1515" height="270" key="GridCell.Tab.0.bottom" timestamp="1586876899880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586876899880" />
+    <state width="1515" height="270" key="GridCell.Tab.0.center" timestamp="1586876899880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586876899880" />
+    <state width="1515" height="270" key="GridCell.Tab.0.left" timestamp="1586876899880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586876899880" />
+    <state width="1515" height="270" key="GridCell.Tab.0.right" timestamp="1586876899880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586876899880" />
+    <state width="1515" height="270" key="GridCell.Tab.1.bottom" timestamp="1586876899881">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586876899881" />
+    <state width="1515" height="270" key="GridCell.Tab.1.center" timestamp="1586876899881">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586876899881" />
+    <state width="1515" height="270" key="GridCell.Tab.1.left" timestamp="1586876899880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586876899880" />
+    <state width="1515" height="270" key="GridCell.Tab.1.right" timestamp="1586876899881">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586876899881" />
+    <state x="578" y="126" key="NewModule_or_Project.wizard" timestamp="1586919505191">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="578" y="126" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1586919505191" />
+    <state x="303" y="61" key="SettingsEditor" timestamp="1586832027420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586832027420" />
+    <state x="342" y="165" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586836969304">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="342" y="165" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1586836969304" />
+    <state x="170" y="136" key="new project wizard" timestamp="1586611605594">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="170" y="136" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586611605594" />
+    <state x="391" y="300" width="881" height="459" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586738979430">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="391" y="300" width="881" height="459" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.860@0.0.1600.860" timestamp="1586738979430" />
+    <state x="453" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586820368214">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="453" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586820368214" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/InsttallSoftware/develop/CloudData/jdk-8/src.zip!/java/util/ArrayList.java</url>
+          <line>230</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/InsttallSoftware/develop/CloudData/jdk-8/src.zip!/java/util/ArrayList.java</url>
+          <line>223</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/InsttallSoftware/develop/CloudData/jdk-8/src.zip!/java/util/ArrayList.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/InsttallSoftware/develop/CloudData/jdk-8/src.zip!/java/util/ArrayList.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/InsttallSoftware/develop/CloudData/jdk-8/src.zip!/java/util/ArrayList.java</url>
+          <line>257</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/InsttallSoftware/develop/CloudData/jdk-8/src.zip!/java/util/ArrayList.java</url>
+          <line>264</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" type="java-line">
+          <condition expression="i==9" language="JAVA" />
+          <url>file://$PROJECT_DIR$/xt-distri/src/main/java/com/jstar/xt/lock/jdk/array/TestArray.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/InsttallSoftware/develop/CloudData/jdk-8/src.zip!/java/util/ArrayList.java</url>
+          <line>461</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
