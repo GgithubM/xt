@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZsNCzuZ3GH80E8FUPMeiTcBHzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -152,7 +156,7 @@
       <workItem from="1586737933198" duration="1394000" />
       <workItem from="1586820135716" duration="11315000" />
       <workItem from="1586917105554" duration="38000" />
-      <workItem from="1586919008521" duration="754000" />
+      <workItem from="1586919008521" duration="1149000" />
     </task>
     <servers />
   </component>
@@ -168,6 +172,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="937" y="135" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1586836642476" />
+    <state x="538" y="22" key="CommitChangelistDialog2" timestamp="1586935512518">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="538" y="22" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586935512518" />
     <state width="457" height="466" key="DebuggerActiveHint" timestamp="1586831883659">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
